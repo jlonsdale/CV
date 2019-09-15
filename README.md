@@ -1,6 +1,6 @@
 ## Jessie Lonsdale
 
-I'm Jessie Lonsdale, a recent physics graduduate from UCL, through which I've acquired keen problem solving skills, teamwork experience and exceptional mathematical capabilities. I find it satisfying applying these skills to solving problems with code and take pride in the quality of my work.
+I'm Jessie Lonsdale, a recent physics graduduate from UCL. Through my degree I've acquired keen problem solving skills, teamwork experience and exceptional mathematical capabilities. I find it satisfying applying these skills to solving problems with code and I take pride in the quality of my work.
 
 ## Skills
 
@@ -9,18 +9,24 @@ I'm Jessie Lonsdale, a recent physics graduduate from UCL, through which I've ac
 Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
 Group Theory.
 
-Mathematical Methods I, II and III
-Solid State Physics
+Relevant courses
+- Mathematical Methods I, II and III
+- Solid State Physics
 
 *note to self attach grade transript.
 
-#### Communication and Teamwork skills
+#### Communication and Teamwork Skills
 
-Developing Effecting Communications I and II
+I have worked in small and large groups for numerous highly specialized projects throughout my degree. For example, building a phased array antenna, operating and taking readings from a scanning tunneling microscope and various electronics projects.
 
-I have worked in small and large groups for numerous highly specialised projects. For example, building a phased array antenna, operating and taking reading from a scanning tunneling microscope and various electronics projects.
+During my projects I obtained experience with project management, data analysis using Python, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
 
-During my projects I obtained experience with project management, data analysis using Python, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly for a project. 
+During my second year at university I volunteered as a tutor teaching GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
+
+Relevant courses
+- Labratory I, II and III
+- Final Year Group Project
+- Developing Effective Communications I and II
 
 ## Education
 
@@ -31,11 +37,11 @@ During my projects I obtained experience with project management, data analysis 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Batchelors of Physics - UCL (2015 to 2019)
+#### Bachelors of Physics - UCL (2015 to 2019)
 
 - Overall Grade 2:1 (67%)
-- Group Project (Building a Phased Array Attena) - 80%
-- Object Orientated Programming - 76%
+- Group Project (Building a Phased Array Antenna) - 80%
+- Scientific Programming Using Object-Oriented Languages - 76%
 - Solid State Physics - 70%
 - Final Year Labratory Work (Scanning Tunneling Microscopy) - 73%
 
