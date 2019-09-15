@@ -4,8 +4,6 @@ I'm Jessie Lonsdale, a recent physics graduduate from UCL, through which I've ac
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Mathematical Skills
 
 Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
