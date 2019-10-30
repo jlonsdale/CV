@@ -5,11 +5,11 @@ I'm Jessie Lonsdale, a recent physics graduduate from UCL. Through my degree I'v
 ## Skills
 
 #### Mathematical and Data Analytical Skills
-#Data Analysis:
-Python, NumPY, Regression analysis, Statistical hypothesis testing
-#Mathematics: 
-Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
-Group Theory.
+- Data Analysis:
+  Python, NumPY, Regression analysis, Statistical hypothesis testing
+- Mathematics: 
+  Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
+  Group Theory.
 
 #### Communication and Teamwork Skills
 
