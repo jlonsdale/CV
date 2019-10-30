@@ -17,7 +17,7 @@ Relevant courses
 
 #### Communication and Teamwork Skills
 
-I have worked in small and large groups for numerous highly specialized projects throughout my degree. For example, building a phased array antenna, operating and taking readings from a scanning tunneling microscope and various electronics projects.
+I have worked in small and large groups for numerous highly specialized projects throughout my degree and during Makers. For example, building a phased array antenna, operating and taking readings from a scanning tunneling microscope and various electronics projects.
 
 During my projects I obtained experience with project management, data analysis using Python, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
 
