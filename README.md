@@ -4,24 +4,20 @@ I'm Jessie Lonsdale, a recent physics graduduate from UCL. Through my degree I'v
 
 ## Skills
 
-#### Mathematical Skills
-
+#### Mathematical and Data Analytical Skills
+#Data Analysis:
+Python, NumPY, Regression analysis, Statistical hypothesis testing
+#Mathematics: 
 Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
 Group Theory.
-
-Relevant courses
-- Mathematical Methods I, II and III
-- Solid State Physics
-
-*note to self attach grade transript.
 
 #### Communication and Teamwork Skills
 
 I have worked in small and large groups for numerous highly specialized projects throughout my degree and during Makers. For example, building a phased array antenna, operating and taking readings from a scanning tunneling microscope and various electronics projects.
 
-During my projects I obtained experience with project management, data analysis using Python, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
+During my projects I obtained experience with project management, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
 
-During my second year at university I volunteered as a tutor teaching GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
+During my second year at university I volunteered as a tutor for GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
 
 Relevant courses
 - Labratory I, II and III
