@@ -1,13 +1,13 @@
 ## Jessie Lonsdale
 
+i have a very big brain it is veyr large and i am veyr intelligent. aaa my brain is expanding aaaaaaaaaa
+
 I'm Jessie Lonsdale, a recent physics graduduate from UCL. Through my degree I've acquired keen problem solving skills, teamwork experience and exceptional mathematical capabilities. I find it satisfying applying these skills to solving problems with code and I take pride in the quality of my work.
 
 ## Skills
 
 #### Mathematical and Data Analytical Skills
- Python, NumPY, Regression analysis, Statistical hypothesis testing
- Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and
- Group Theory.
+Python, NumPY, Regression analysis, Statistical hypothesis testing, Multivariable Calculus, Determinants and Matrices, Differential Equations, Legendre Functions, Fourier Analysis and Group Theory.
 
 #### Communication and Teamwork Skills
 
