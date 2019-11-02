@@ -9,7 +9,7 @@ During my degree I used code to acheieve various goals, such as simulating physi
 #### Technical Skills 
 
 I have experience using Python, numPy and matplotLib in various mathematical and physical contexts.
-I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra and NodeJS. I also have worked extensively with jQuery, HTNL, CSS. 
+I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra and NodeJS. I also have worked extensively with jQuery, HTML, CSS. 
 
 #### Mathematical and Data Analytical Skills
 
