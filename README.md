@@ -11,6 +11,10 @@ During my degree I used code to acheieve various goals, such as simulating physi
 I have experience using Python, numPy and matplotLib in various mathematical and physical contexts.
 I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra and NodeJS. I also have worked extensively with jQuery, HTML, CSS. 
 
+My Personal Projects:
+-https://pixel-edit.herokuapp.com/
+-https://jlonsdale.github.io/physics_engine.io/
+
 #### Mathematical and Data Analytical Skills
 
 I find the approaches in mathematics and programming closely related, and I experience my mathematical studies often give me an advantage in solving a problem using code. Through the mathematical aspects of my studies I've trained a methodical approach to solving highly complex problems as well applying useful strategies for isolating problems and solving bugs - not to mention training my cognitive skills to grasp the complexities of a given problem.
