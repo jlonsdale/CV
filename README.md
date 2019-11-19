@@ -1,6 +1,6 @@
 ## Jessie Lonsdale
 
-Studying physics has humbled me to the fact that you will never truely know  <em>everything</em>. Theories are constantly developing and evolving, and the only way to succeed is to always keep learning. I believe this principle is analogous to the tech world. With programming you need to keep learning - both continuously in your career and on the fly for a given task. In this way, I find that to be a good developer is to be embrace constantly learning, improving and adapting. Fortunately for me, I find working in such conditions to be incredibly fun and satisfying. I am looking for a backend development role where I can thrive, learn and write exceptional code.
+Studying physics has humbled me to the fact that you will never truely know  <em>everything</em>. Theories are constantly developing and evolving, and the only way to succeed is to always keep learning. I believe this principle is analogous to the tech world. With programming you need to keep learning - both continuously in your career and on the fly for a given task. In this way, I find that to be a good developer is to be embrace constantly learning, improving and adapting. Fortunately for me, I find working in such conditions to be incredibly fun and satisfying. I am looking for a backend or fullstack development role where I can thrive, learn and write exceptional code.
 
 During my degree I used code to acheieve various goals, such as simulating physical relationships using OOP and in depth data analytical work for labratory projects. I pride myself on my ability to write DRY, well-tested and readable code using TDD principles.
 
@@ -12,8 +12,10 @@ I have experience using Python, numPy and matplotLib in various mathematical and
 I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra, React and NodeJS. I also have worked extensively with jQuery, HTML, CSS. 
 
 My Personal Projects:
--https://pixel-edit.herokuapp.com/
--https://jlonsdale.github.io/physics_engine.io/
+- https://pixel-edit.herokuapp.com/
+- https://jlonsdale.github.io/physics_engine.io/
+My Group Projects:
+- https://lizardbook.herokuapp.com/
 
 #### Mathematical and Data Analytical Skills
 
