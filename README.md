@@ -14,6 +14,7 @@ I also have experience with object orientated programming in Java, Ruby and Java
 My Personal Projects:
 - https://pixel-edit.herokuapp.com/
 - https://jlonsdale.github.io/physics_engine.io/
+
 My Group Projects:
 - https://lizardbook.herokuapp.com/
 
