@@ -12,8 +12,11 @@ I have experience using Python, numPy and matplotLib in various mathematical and
 I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra, React and NodeJS. I also have worked extensively with jQuery, HTML, CSS. 
 
 My Personal Projects:
-- https://pixel-edit.herokuapp.com/
-- https://jlonsdale.github.io/physics_engine.io/
+- using react:
+  - https://pixel-edit.herokuapp.com/
+-building physics engines from scratch
+  - https://jlonsdale.github.io/physics_engine.io/
+  - https://jlonsdale.github.io/pool_table.io/
 
 My Group Projects:
 - https://lizardbook.herokuapp.com/
