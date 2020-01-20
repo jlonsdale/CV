@@ -4,23 +4,27 @@ Studying physics has humbled me to the fact that you will never truely know  <em
 
 During my degree I used code to acheieve various goals, such as simulating physical relationships using OOP and in depth data analytical work for labratory projects. I pride myself on my ability to write DRY, well-tested and readable code using TDD principles.
 
-## Skills
+## Education
+
+* University College London, Bachelors of Physics.
+  * Second-Class Honours (67%) (2015-2019)
+  * Scientific Programming Using Object-Oriented Languages - 76%
+  * Final Year Project - 80% (Building and testing a phased array antenna)
+* Makers Academy (Sept 2019 to Dec 2019)
 
 #### Technical Skills 
 
-I have experience using Python, numPy and matplotLib in various mathematical and physical contexts.
-I also have experience with object orientated programming in Java, Ruby and Javascript, and with the relevant testing frameworks such as Rspec and Jasmine. I have built various applications, both solo and by working in groups, using: Rails, Sinatra, React and NodeJS. I also have worked extensively with jQuery, HTML, CSS. 
-
-My Personal Projects:
-- using react:
-  - https://pixel-edit.herokuapp.com/
-  
--building physics engines from scratch
-  - https://jlonsdale.github.io/physics_engine.io/
-  - https://jlonsdale.github.io/pool_table.io/
-
-My Group Projects:
-- https://lizardbook.herokuapp.com/
+- ✔️	High mathematical fluency and strong problem-solving skills.
+- ✔️	Experience with JavaScript, Python, Ruby & Java.
+- ✔️	TDD using Rspec, Capybara, Jasmine & Jest.
+- ✔️	Object-oriented programming.
+- ✔️	Rails, Express.js & Node.js.
+- ✔️	RESTful API design.
+- ✔️	Model-View-Controller design.
+- ✔️	HTML, CSS, JQuery & React.
+- ✔️	MongoDB & PostgreSQL.
+- ✔️	Data analytics using numPy and matplotLib.
+- ✔️	Communication and Teamwork Skills
 
 #### Mathematical and Data Analytical Skills
 
@@ -35,28 +39,18 @@ During my projects I obtained experience with project management, utilizing grou
 
 During my second year at university I volunteered as a tutor for GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
 
-Relevant courses
-- Labratory I, II and III
-- Final Year Group Project
-- Developing Effective Communications I and II
+## Portfolio and Experience
 
-## Education
+	Working in small and large groups for highly specialized projects throughout my degree and during Makers.
+•	Working in groups utilising Agile software development.
+•	Experience teaching and tutoring mathematics & physics to A-level students.
+•	I have a passion for modelling physical systems using code and creating my own physics engines. I also enjoy expanding on these personal projects by dabbling in game design to 
+create small interactive apps and games.
 
-#### Makers Academy (Sept 2019 to Dec 2019)
+| Project Description | Tech Stack |
+| --------------------|:-------------:|
+| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, Express.js, TDD and Agile|
+| LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery, PostgreSQL, TDD and Agile |
+|Physics_engine.io – a learning tool to model basic collision mechanics with variable parameters (coefficient of restitution & coefficient of friction) <ul><li>Deployed here: https://jlonsdale.github.io/physics_engine.io/ </li><li>Github repo:  https://github.com/jlonsdale/physics_engine.io </li></ul>|JavaScript ES6, jQuery, HTML and CSS.|
+|Solarsim - an educational tool to visualize elliptical orbits. <ul><li>Deployed here: https://solarorbitsym.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/solarsim </li></ul>|JavaScript ES6, jQuery, Node.js, Heroku, HTML and CSS.|
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Bachelors of Physics - UCL (2015 to 2019)
-
-- Overall Grade 2:1 (67%)
-- Group Project (Building a Phased Array Antenna) - 80%
-- Scientific Programming Using Object-Oriented Languages - 76%
-- Solid State Physics - 70%
-- Final Year Labratory Work (Scanning Tunneling Microscopy) - 73%
-
-## Hobbies
-
-In my free time I also enjoy home cooking and art.
