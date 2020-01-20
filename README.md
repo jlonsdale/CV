@@ -12,7 +12,14 @@ During my degree I used code to acheieve various goals, such as simulating physi
   * Final Year Project - 80% (Building and testing a phased array antenna)
 * Makers Academy (Sept 2019 to Dec 2019)
 
-#### Technical Skills 
+#### Skills 
+
+I find the approaches in mathematics and programming closely related, and I experience my mathematical studies often give me an advantage in solving a problem using code. Through the mathematical aspects of my studies I've trained a methodical approach to solving highly complex problems as well applying useful strategies for isolating problems and solving bugs - not to mention training my cognitive skills to grasp the complexities of a given problem.
+
+I have worked in small and large groups for numerous highly specialized projects throughout my degree and during Makers..
+During my projects I obtained experience with project management, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
+
+During my second year at university I volunteered as a tutor for GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
 
 - ✔️	High mathematical fluency and strong problem-solving skills.
 - ✔️	Experience with JavaScript, Python, Ruby & Java.
@@ -25,27 +32,9 @@ During my degree I used code to acheieve various goals, such as simulating physi
 - ✔️	MongoDB & PostgreSQL.
 - ✔️	Data analytics using numPy and matplotLib.
 - ✔️	Communication and Teamwork Skills
+- ✔️    Experience teaching and tutoring mathematics & physics to A-level students.
 
-#### Mathematical and Data Analytical Skills
-
-I find the approaches in mathematics and programming closely related, and I experience my mathematical studies often give me an advantage in solving a problem using code. Through the mathematical aspects of my studies I've trained a methodical approach to solving highly complex problems as well applying useful strategies for isolating problems and solving bugs - not to mention training my cognitive skills to grasp the complexities of a given problem.
-
-My skills in field include experience with: Regression analysis, Statistical hypothesis testing, Multivariable Calculus, Determinants and Matrices, High-order Differential Equations, Legendre Functions, Fourier Analysis and Group Theory.
-
-#### Communication and Teamwork Skills
-
-I have worked in small and large groups for numerous highly specialized projects throughout my degree and during Makers..
-During my projects I obtained experience with project management, utilizing group members strengths, meeting deadlines, delegating work among the team as well as picking up and applying new skills quickly.
-
-During my second year at university I volunteered as a tutor for GCSE Physics and Mathematics to 15-16 year olds at NCS. This gave me experience in explaining complicated concepts in easy-to-understand ways.
-
-## Portfolio and Experience
-
-	Working in small and large groups for highly specialized projects throughout my degree and during Makers.
-•	Working in groups utilising Agile software development.
-•	Experience teaching and tutoring mathematics & physics to A-level students.
-•	I have a passion for modelling physical systems using code and creating my own physics engines. I also enjoy expanding on these personal projects by dabbling in game design to 
-create small interactive apps and games.
+## Portfolio
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
