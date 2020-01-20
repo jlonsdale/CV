@@ -1,4 +1,4 @@
-## Jessie Lonsdale
+## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
 
 Studying physics has humbled me to the fact that you will never truely know  <em>everything</em>. Theories are constantly developing and evolving, and the only way to succeed is to always keep learning. I believe this principle is analogous to the tech world. With programming you need to keep learning - both continuously in your career and on the fly for a given task. In this way, I find that to be a good developer is to be embrace constantly learning, improving and adapting. Fortunately for me, I find working in such conditions to be incredibly fun and satisfying. I am looking for a backend or fullstack development role where I can thrive, learn and write exceptional code.
 
