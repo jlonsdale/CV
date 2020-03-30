@@ -4,6 +4,11 @@ Studying physics has humbled me to the fact that you will never truely know  <em
 
 During my degree I used code to achieve various goals, such as simulating physical relationships using OOP and in depth data analytical work for labratory projects. I pride myself on my ability to write DRY, well-tested and readable code using TDD principles.
 
+## Experience 
+
+* Greensill - Software Engineer
+ * Feb 2019 to Present
+
 ## Education
 
 * University College London, Bachelors of Physics.
