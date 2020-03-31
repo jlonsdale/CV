@@ -6,8 +6,11 @@ During my degree I used code to achieve various goals, such as simulating physic
 
 ## Experience 
 
-* Greensill - Software Engineer
- * Feb 2019 to Present
+* Greensill - Software Engineer (Feb 2020 to Present)
+  * JavaScript Full-Stack
+  * AWS Lambdas
+  * MySQL
+  * React, Redux, Thunk
 
 ## Education
 
